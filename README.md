@@ -32,7 +32,7 @@ Begin by installing the library via your preferred package manager, then follow 
 ## How To Usage?
 ```json
 "depencies": {
-  "@whiskeysockets/baileys": "github:kayzennotdev/bail"
+  "@whiskeysockets/baileys": "github:xwarrxxx/bail"
 }
 ```
 ## Import
@@ -123,8 +123,8 @@ await client.relayMessage(m.chat, {
     thumbnail: { url: "./YourImage" },
     productId: "EXAMPLE_TOKEN",
     retailerId: "EXAMPLE_RETAILER_ID",
-    url: "https://t.me/kayzennotdev",
-    body: "Nak Tido",
+    url: "https://t.me/Xwarrxxx",
+    body: "X",
     footer: "Footer",
     buttons: [
       {
