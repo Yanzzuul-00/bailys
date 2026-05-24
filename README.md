@@ -32,7 +32,7 @@ Begin by installing the library via your preferred package manager, then follow 
 ## How To Usage?
 ```json
 "depencies": {
-  "@whiskeysockets/baileys": "github:xwarrxxx/bail"
+  "@whiskeysockets/baileys": "github:Yanzzuul-00/bailys"
 }
 ```
 ## Import
@@ -107,7 +107,7 @@ await client.sendMessage(m.chat, {
       }
     ],
     newsletter: {
-      newsletterName: "Kayzennotdev",
+      newsletterName: "Yanzzuul",
       newsletterJid: "1@newsletter"
     }
   }
@@ -123,7 +123,7 @@ await client.relayMessage(m.chat, {
     thumbnail: { url: "./YourImage" },
     productId: "EXAMPLE_TOKEN",
     retailerId: "EXAMPLE_RETAILER_ID",
-    url: "https://t.me/Xwarrxxx",
+    url: "https://t.me/Yanzzuul",
     body: "X",
     footer: "Footer",
     buttons: [
